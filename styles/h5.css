@@ -1,0 +1,12 @@
+h5 {
+    font-size: 1.1em; /* Slightly larger than body text for emphasis */
+    color: #777; /* A slightly lighter shade for subtlety */
+    margin-top: 10px; /* Less space above than for higher-level headings */
+    margin-bottom: 5px; /* Minimal space below to keep content tight */
+    font-family: 'Courier New', monospace; /* A monospace font for differentiation */
+    font-weight: bold; /* Keeps the text visually impactful */
+    text-align: left; /* Standard alignment for continuity */
+    border-bottom: 1px solid #eee; /* A light solid line for a touch of separation */
+    padding-bottom: 4px; /* Close space between the text and the underline */
+  }
+  
