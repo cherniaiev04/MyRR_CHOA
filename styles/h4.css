@@ -1,0 +1,12 @@
+h4 {
+    font-size: 1.25em; /* Slightly larger than the body text */
+    color: #666; /* A soft, dark color for readability */
+    margin-top: 15px; /* Space above the heading */
+    margin-bottom: 8px; /* Space below the heading */
+    font-family: 'Georgia', serif; /* A serif font for a touch of formality */
+    font-weight: bold; /* Makes the heading stand out */
+    text-align: left; /* Aligns the heading to the left */
+    border-bottom: 1px dotted #ccc; /* A dotted line for subtle separation */
+    padding-bottom: 5px; /* Space between the text and the underline */
+  }
+  
